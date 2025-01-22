@@ -1,0 +1,80 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax1099Misc" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "13-945-6434",
+        "issuer" : {
+          "tin" : "00-0061267",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Jast-Breitenberg"
+          },
+          "address" : {
+            "line1" : "4300 Ziemann Turnpike",
+            "city" : "Rickeyshire",
+            "region" : "NY",
+            "postalCode" : "05762"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "thanh.breitenberg@hotmail.com"
+        },
+        "recipient" : {
+          "tin" : "000-60-5822",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Gilberto",
+            "last" : "Swaniawski"
+          },
+          "address" : {
+            "line1" : "045 Jeff Groves",
+            "city" : "Drewborough",
+            "region" : "MS",
+            "postalCode" : "93455"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "carrol.lebsack@yahoo.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "accountNumber" : "308-79268-9",
+        "rents" : 200,
+        "royalties" : 300,
+        "otherIncome" : 400,
+        "federalTaxWithheld" : 500,
+        "fishingBoatProceeds" : 600,
+        "medicalHealthPayment" : 700,
+        "payerDirectSales" : true,
+        "substitutePayments" : 800,
+        "cropInsurance" : 900,
+        "secondTinNotice" : true,
+        "grossAttorney" : 1000,
+        "fishPurchased" : 1100,
+        "section409ADeferrals" : 1200,
+        "foreignAccountTaxCompliance" : true,
+        "excessGolden" : 1300,
+        "nonQualifiedDeferredCompensation" : 1400,
+        "stateAndLocal" : [ {
+          "stateCode" : "AA",
+          "state" : {
+            "taxWithheld" : 1500,
+            "taxId" : "88-584487",
+            "income" : 1600
+          },
+          "local" : {
+            "taxWithheld" : 1700,
+            "localityName" : "New Glindaview",
+            "income" : 1800
+          }
+        } ]
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}
