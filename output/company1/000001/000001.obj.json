@@ -1,0 +1,70 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "06-371-1920",
+  "taxFormId" : "9253870",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0525166",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Monahan and Sons"
+    },
+    "address" : {
+      "line1" : "299 Kerry Lane",
+      "city" : "Enidmouth",
+      "region" : "MN",
+      "postalCode" : "21501"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "eric.dickinson@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-41-7681",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Sang",
+      "last" : "Crona"
+    },
+    "address" : {
+      "line1" : "98690 Wolff Stravenue",
+      "city" : "Schustertown",
+      "region" : "ME",
+      "postalCode" : "65575"
+    },
+    "email" : "hayden.rowe@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "338-83266-5",
+  "rents" : 200,
+  "royalties" : 300,
+  "otherIncome" : 400,
+  "federalTaxWithheld" : 500,
+  "fishingBoatProceeds" : 600,
+  "medicalHealthPayment" : 700,
+  "payerDirectSales" : true,
+  "substitutePayments" : 800,
+  "cropInsurance" : 900,
+  "secondTinNotice" : true,
+  "grossAttorney" : 1000,
+  "fishPurchased" : 1100,
+  "section409ADeferrals" : 1200,
+  "foreignAccountTaxCompliance" : true,
+  "excessGolden" : 1300,
+  "nonQualifiedDeferredCompensation" : 1400,
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1500,
+      "taxId" : "56-125804",
+      "income" : 1600
+    },
+    "local" : {
+      "taxWithheld" : 1700,
+      "localityName" : "Shermanmouth",
+      "income" : 1800
+    }
+  } ]
+}
