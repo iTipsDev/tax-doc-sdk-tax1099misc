@@ -1,0 +1,80 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax1099Misc" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "42-489-0780",
+        "issuer" : {
+          "tin" : "00-0061267",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Jast-Breitenberg"
+          },
+          "address" : {
+            "line1" : "4300 Ziemann Turnpike",
+            "city" : "Rickeyshire",
+            "region" : "NY",
+            "postalCode" : "05762"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "thanh.breitenberg@hotmail.com"
+        },
+        "recipient" : {
+          "tin" : "000-38-6087",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Deshawn",
+            "last" : "Nitzsche"
+          },
+          "address" : {
+            "line1" : "23266 Geoffrey Summit",
+            "city" : "Russelton",
+            "region" : "VA",
+            "postalCode" : "11529"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "demarcus.hansen@hotmail.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "accountNumber" : "576-97653-8",
+        "rents" : 200,
+        "royalties" : 300,
+        "otherIncome" : 400,
+        "federalTaxWithheld" : 500,
+        "fishingBoatProceeds" : 600,
+        "medicalHealthPayment" : 700,
+        "payerDirectSales" : true,
+        "substitutePayments" : 800,
+        "cropInsurance" : 900,
+        "secondTinNotice" : true,
+        "grossAttorney" : 1000,
+        "fishPurchased" : 1100,
+        "section409ADeferrals" : 1200,
+        "foreignAccountTaxCompliance" : true,
+        "excessGolden" : 1300,
+        "nonQualifiedDeferredCompensation" : 1400,
+        "stateAndLocal" : [ {
+          "stateCode" : "AA",
+          "state" : {
+            "taxWithheld" : 1500,
+            "taxId" : "26-778331",
+            "income" : 1600
+          },
+          "local" : {
+            "taxWithheld" : 1700,
+            "localityName" : "Wesleyfort",
+            "income" : 1800
+          }
+        } ]
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}

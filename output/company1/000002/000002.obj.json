@@ -1,0 +1,70 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "01-018-5828",
+  "taxFormId" : "2376957",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0525166",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Monahan and Sons"
+    },
+    "address" : {
+      "line1" : "299 Kerry Lane",
+      "city" : "Enidmouth",
+      "region" : "MN",
+      "postalCode" : "21501"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "eric.dickinson@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-22-4398",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Celinda",
+      "last" : "Quigley"
+    },
+    "address" : {
+      "line1" : "6815 Schimmel Forest",
+      "city" : "West Jessiechester",
+      "region" : "NE",
+      "postalCode" : "06479"
+    },
+    "email" : "edmundo.leannon@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "180-17913-3",
+  "rents" : 200,
+  "royalties" : 300,
+  "otherIncome" : 400,
+  "federalTaxWithheld" : 500,
+  "fishingBoatProceeds" : 600,
+  "medicalHealthPayment" : 700,
+  "payerDirectSales" : true,
+  "substitutePayments" : 800,
+  "cropInsurance" : 900,
+  "secondTinNotice" : true,
+  "grossAttorney" : 1000,
+  "fishPurchased" : 1100,
+  "section409ADeferrals" : 1200,
+  "foreignAccountTaxCompliance" : true,
+  "excessGolden" : 1300,
+  "nonQualifiedDeferredCompensation" : 1400,
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1500,
+      "taxId" : "26-173369",
+      "income" : 1600
+    },
+    "local" : {
+      "taxWithheld" : 1700,
+      "localityName" : "Labadiemouth",
+      "income" : 1800
+    }
+  } ]
+}
