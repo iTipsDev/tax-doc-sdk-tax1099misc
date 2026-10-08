@@ -1,0 +1,81 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "59-418-2420",
+  "taxFormId" : "1635047",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0291487",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Abernathy and Sons"
+    },
+    "address" : {
+      "line1" : "5611 Dickens River",
+      "city" : "Issacchester",
+      "region" : "SC",
+      "postalCode" : "74391",
+      "unitType" : "Apt",
+      "unitNumber" : "149"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "joan.wolff@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-72-5552",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Marlene",
+      "middle" : "Melvina",
+      "last" : "Collier"
+    },
+    "businessName" : {
+      "name1" : "Rutherford-Cormier"
+    },
+    "address" : {
+      "line1" : "85753 Mica Meadow",
+      "city" : "Nathanielport",
+      "region" : "PA",
+      "postalCode" : "42326",
+      "unitType" : "Apt",
+      "unitNumber" : "285"
+    },
+    "email" : "roxanna.hickle@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "401-79973-1",
+  "rents" : 200,
+  "royalties" : 300,
+  "otherIncome" : 400,
+  "federalTaxWithheld" : 500,
+  "fishingBoatProceeds" : 600,
+  "medicalHealthPayment" : 700,
+  "payerDirectSales" : true,
+  "substitutePayments" : 800,
+  "cropInsurance" : 900,
+  "secondTinNotice" : true,
+  "grossAttorney" : 1000,
+  "fishPurchased" : 1100,
+  "section409ADeferrals" : 1200,
+  "tips" : 1300,
+  "occupationCodes" : [ "201" ],
+  "overtime" : 1400,
+  "foreignAccountTaxCompliance" : true,
+  "excessGolden" : 1500,
+  "nonQualifiedDeferredCompensation" : 1600,
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1700,
+      "taxId" : "47-005045",
+      "income" : 1800
+    },
+    "local" : {
+      "taxWithheld" : 1900,
+      "localityName" : "Clarencechester",
+      "income" : 2000
+    }
+  } ]
+}

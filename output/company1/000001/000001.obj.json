@@ -1,0 +1,81 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "10-041-9821",
+  "taxFormId" : "6994897",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0291487",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Abernathy and Sons"
+    },
+    "address" : {
+      "line1" : "5611 Dickens River",
+      "city" : "Issacchester",
+      "region" : "SC",
+      "postalCode" : "74391",
+      "unitType" : "Apt",
+      "unitNumber" : "149"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "joan.wolff@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-03-8083",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Vincent",
+      "middle" : "Kerry",
+      "last" : "Moore"
+    },
+    "businessName" : {
+      "name1" : "Schuppe-Sporer"
+    },
+    "address" : {
+      "line1" : "34347 Nicky Falls",
+      "city" : "Anport",
+      "region" : "SD",
+      "postalCode" : "46403",
+      "unitType" : "Apt",
+      "unitNumber" : "996"
+    },
+    "email" : "janee.willms@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "858-47511-9",
+  "rents" : 200,
+  "royalties" : 300,
+  "otherIncome" : 400,
+  "federalTaxWithheld" : 500,
+  "fishingBoatProceeds" : 600,
+  "medicalHealthPayment" : 700,
+  "payerDirectSales" : true,
+  "substitutePayments" : 800,
+  "cropInsurance" : 900,
+  "secondTinNotice" : true,
+  "grossAttorney" : 1000,
+  "fishPurchased" : 1100,
+  "section409ADeferrals" : 1200,
+  "tips" : 1300,
+  "occupationCodes" : [ "201" ],
+  "overtime" : 1400,
+  "foreignAccountTaxCompliance" : true,
+  "excessGolden" : 1500,
+  "nonQualifiedDeferredCompensation" : 1600,
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1700,
+      "taxId" : "36-313985",
+      "income" : 1800
+    },
+    "local" : {
+      "taxWithheld" : 1900,
+      "localityName" : "Kristoferport",
+      "income" : 2000
+    }
+  } ]
+}

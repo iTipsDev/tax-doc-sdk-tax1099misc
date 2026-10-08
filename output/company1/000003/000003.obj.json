@@ -1,0 +1,81 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "37-311-5059",
+  "taxFormId" : "5684101",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0291487",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Abernathy and Sons"
+    },
+    "address" : {
+      "line1" : "5611 Dickens River",
+      "city" : "Issacchester",
+      "region" : "SC",
+      "postalCode" : "74391",
+      "unitType" : "Apt",
+      "unitNumber" : "149"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "joan.wolff@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-95-9334",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Maribel",
+      "middle" : "Maximo",
+      "last" : "Goyette"
+    },
+    "businessName" : {
+      "name1" : "Beahan-Kovacek"
+    },
+    "address" : {
+      "line1" : "4147 Dickens Brooks",
+      "city" : "West Cherly",
+      "region" : "KY",
+      "postalCode" : "88372",
+      "unitType" : "Apt",
+      "unitNumber" : "530"
+    },
+    "email" : "rodolfo.dach@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "554-60384-2",
+  "rents" : 200,
+  "royalties" : 300,
+  "otherIncome" : 400,
+  "federalTaxWithheld" : 500,
+  "fishingBoatProceeds" : 600,
+  "medicalHealthPayment" : 700,
+  "payerDirectSales" : true,
+  "substitutePayments" : 800,
+  "cropInsurance" : 900,
+  "secondTinNotice" : true,
+  "grossAttorney" : 1000,
+  "fishPurchased" : 1100,
+  "section409ADeferrals" : 1200,
+  "tips" : 1300,
+  "occupationCodes" : [ "201" ],
+  "overtime" : 1400,
+  "foreignAccountTaxCompliance" : true,
+  "excessGolden" : 1500,
+  "nonQualifiedDeferredCompensation" : 1600,
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1700,
+      "taxId" : "30-743852",
+      "income" : 1800
+    },
+    "local" : {
+      "taxWithheld" : 1900,
+      "localityName" : "Ricardomouth",
+      "income" : 2000
+    }
+  } ]
+}
